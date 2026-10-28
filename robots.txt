@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bamleo-events.onrender.com/sitemap.xml
+Sitemap: https://bamleoevents.ng/sitemap.xml
